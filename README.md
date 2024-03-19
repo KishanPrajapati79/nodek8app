@@ -1,1 +1,1 @@
-Deployig Node and Mongo app on kubernetes
+Deploying our node js web app with mongo database in kubernets cluster
