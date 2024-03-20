@@ -83,7 +83,9 @@ spec:
       containers:
       - name: webapp
         # image: kishanpra/myapp_node:v1.9
-        image: kishanpra/mynodeappk8:v1.0
+        # image: kishanpra/mynodeappk8:v1.0
+        # image: kishanpra/mynodeappk8:v2.0
+        image: kishanpra/mynodeappk8:latest
         ports:
         - containerPort: 3000
         env:
